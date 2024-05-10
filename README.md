@@ -2,6 +2,8 @@
 
 Library Management System for Stepwise University
 
+<img src='"C:\Users\productivitysquare\Documents\GitHub\SD2-Library-MS-GUI-Cpp\LMS-Login-ByEvan.png"' title='Program Preview' width='' alt='Login-preview' />
+
 Submitted by: Evan Balson
 ### Time spent: 21 days
 
