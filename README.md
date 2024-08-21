@@ -156,7 +156,8 @@ The Library Management System for Stepwise University is a C++ program designed 
 ## To use the program:
 1.	Launch the executable file.
 2.	Program will launch with default users: Login with a user below
-Evan Balson: Student
+
+Evan Balson: Student:
 -	Login ID: EVA1000000
 -	Password: password
 
