@@ -3,7 +3,7 @@
 Library Management System for Stepwise University
 
 
-<img src='https://github.com/Evan-Balson/SD2-Library-MS-GUI-Cpp/blob/main/LMS-Login-ByEvan.png' title='Program Preview' width='' alt='Login-preview' />
+<img src='https://github.com/Evan-Balson/SD2-Library-MS-GUI-Cpp/blob/main/LMS-Overview-ByEvan.png' title='Program Preview' width='' alt='overview-preview' />
 
 Submitted by: Evan Balson
 ### Time spent: 21 days
@@ -132,6 +132,7 @@ The Library Management System for Stepwise University is a C++ program designed 
 	A minimum display resolution of 1366 x 768 is recommended.
 
 
+
 ------------------------------------------------------------------------
 # 3. INSTALLATION
 ------------------------------------------------------------------------
@@ -149,6 +150,7 @@ The Library Management System for Stepwise University is a C++ program designed 
 6.	Run the Application: Once built successfully, you can run the application directly from Visual Studio or navigate to the executable file in the project directory and run it.
 
 
+ <img src='https://github.com/Evan-Balson/SD2-Library-MS-GUI-Cpp/blob/main/LMS-Login-ByEvan.png' title='Program Preview' width='' alt='Login-preview' />
 
 ------------------------------------------------------------------------
 # 4. INSTRUCTIONS
