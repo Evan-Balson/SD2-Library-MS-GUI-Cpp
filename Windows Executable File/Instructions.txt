@@ -1,0 +1,27 @@
+1.Launch the LibraryApp.exe
+
+2. Registered User logins:
+
+Librarian User
+---------------
+ID: LEE1000001	
+PASSWORD: password
+
+Student User
+----------------
+ID: EVA1000000
+PASSWORD: password
+
+
+3. Registered Books for interaction
+
+ID		NAME
+-----------------------------
+
+7275MATH20241	School of Mathematical Science University of Northern Colorado
+
+7274STAT2024	School of Mathematical Science University of Northern-Colorado
+
+7276SSCI2024 	School of Science Oxford University
+
+4. Experiment with updating the data in the program.
